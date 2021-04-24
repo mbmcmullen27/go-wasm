@@ -1,0 +1,11 @@
+{
+  "name": "wasm-test",
+  "version": "1.0.0",
+  "description": "test wasm instantiation",
+  "main": "boot.js",
+  "scripts": {
+    "test": "node boot.js"
+  },
+  "author": "fishbot",
+  "license": "ISC"
+}
